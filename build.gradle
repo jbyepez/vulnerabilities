@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.test'
-sourceCompatibility = '12'
+sourceCompatibility = '17'
 
 repositories {
 	mavenCentral()
